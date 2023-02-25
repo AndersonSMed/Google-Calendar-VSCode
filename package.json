@@ -2,7 +2,7 @@
   "author": "AndersonSMed",
   "name": "google-calendar",
   "displayName": "Google Calendar",
-  "description": "TODO: Change description",
+  "description": "A Google Calendar extension that helps you to keep track of your calendar from within VSCode",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
