@@ -63,11 +63,6 @@ class CalendarEvent extends vscode.TreeItem {
     this.tooltip = `${this.label}-${this.version}`;
     this.description = this.version;
   }
-
-  // iconPath = {
-  //   light: path.join(__filename, '..', '..', 'resources', 'light', 'CalendarEvent.svg'),
-  //   dark: path.join(__filename, '..', '..', 'resources', 'dark', 'CalendarEvent.svg')
-  // };
 }
 
 const rootPath =
